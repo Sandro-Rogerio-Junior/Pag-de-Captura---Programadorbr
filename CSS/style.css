@@ -91,5 +91,16 @@ footer{
 
     }
     
+@media screen  and (max-width: 600px){
+ .description {
+     
+    text-align: center;
+    max-width: 70%;
 
+ }
+ .picture{
+     margin: auto;
+ }
+ 
+}
 
